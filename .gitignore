@@ -20,13 +20,6 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# PyVis output
-graph.html
-
-# Dataset & embeddings (if too large or private)
-data/
-embeddings/
-
 # VSCode config
 .vscode/
 
