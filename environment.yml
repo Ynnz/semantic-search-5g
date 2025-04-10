@@ -1,0 +1,16 @@
+name: semantic-search-5g
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - pytorch
+  - spacy
+  - networkx
+  - pip
+  - pip:
+      - sentence-transformers
+      - streamlit
+      - pyvis
+      - jinja2
